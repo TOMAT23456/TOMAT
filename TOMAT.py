@@ -1,5 +1,4 @@
 import pygame
-print("xcvb")
 WIDTH = 1000
 HEIGHT = 500
 FPS = 30
